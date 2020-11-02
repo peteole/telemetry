@@ -1,0 +1,57 @@
+{
+	"folders": [
+		{
+			"path": "/home/olep/Dropbox/telemetryClient"
+		},
+		{
+			"path": "."
+		},
+		{
+			"name": "groundRepeater",
+			"path": "/home/olep/Dropbox/arduino/ground/groundRepeater"
+		},
+		{
+			"path": "../../Documents/PlatformIO/Projects/stmTel"
+		},
+		{
+			"name": "stmGround",
+			"path": "../../Documents/PlatformIO/Projects/stmGround"
+		},
+		{
+			"name": "stmI2c",
+			"path": "../../Documents/PlatformIO/Projects/stmI2c"
+		},
+		{
+			"path": "../arduino/libraries/SPMSatRx"
+		},
+		{
+			"path": "../../Documents/PlatformIO/Projects/h7_jet"
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.linux": {
+			"PATH": "/home/olep/.platformio/penv/bin:/home/olep/.platformio/penv:/home/olep/.local/bin:/home/olep/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/share/backuppc/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/share/backuppc/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl",
+			"PLATFORMIO_CALLER": "vscode"
+		},
+		"files.associations": {
+			"string_view": "cpp",
+			"string": "cpp",
+			"cmath": "cpp",
+			"typeinfo": "cpp",
+			"valarray": "cpp",
+			"array": "cpp",
+			"hash_map": "cpp",
+			"*.tcc": "cpp",
+			"deque": "cpp",
+			"forward_list": "cpp",
+			"list": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"memory": "cpp",
+			"random": "cpp",
+			"initializer_list": "cpp",
+			"ranges": "cpp"
+		}
+	}
+}

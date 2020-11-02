@@ -10,3 +10,9 @@ pitch bank heading altitude speed
 
 head 3:
 GPSTime, GPSLAt, GPSLong
+
+head 4:
+message
+
+head 5:
+numOfChannels, channel values[]
