@@ -3,8 +3,9 @@
 
 #include "Arduino.h"
 #include "TinyGPS++.h"
-#include "SoftwareSerial.h"
-extern SoftwareSerial ss;
+//#include "SoftwareSerial.h"
+#include "HardwareSerial.h"
+extern HardwareSerial ss;
 extern TinyGPSPlus gps;
 void initializeGPS();
 void readGPS();

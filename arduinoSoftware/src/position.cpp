@@ -1,5 +1,5 @@
 #include "position.h"
-SoftwareSerial ss(4,3);
+HardwareSerial ss=Serial1;
 TinyGPSPlus gps;
 void initializeGPS(){
     ss.begin(9600);
